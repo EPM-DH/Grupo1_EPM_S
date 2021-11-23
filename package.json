@@ -1,0 +1,26 @@
+{
+  "name": "Grupo1_EPM_S",
+  "version": "1.0.0",
+  "description": "Hasta el Sprint2",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPM-DH/Grupo1_EPM_S.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EPM-DH/Grupo1_EPM_S/issues"
+  },
+  "homepage": "https://github.com/EPM-DH/Grupo1_EPM_S#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
