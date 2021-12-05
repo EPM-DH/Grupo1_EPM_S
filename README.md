@@ -1,3 +1,6 @@
+Se debe instalar express npm install express
+Se debe de ejecutar app.js desde la carpeta de app
+
 # Grupo1_EPM_S
 Hasta el Sprint2
 
