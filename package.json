@@ -1,26 +1,25 @@
 {
-  "name": "Grupo1_EPM_S",
+  "name": "grupo_1_EPM",
   "version": "1.0.0",
-  "description": "Hasta el Sprint2",
-  "main": "app.js",
+  "description": "e-comerce, articulos para montaña\r E-commerce de articulos para actividades al aire libre",
+  "main": "src/app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EPM-DH/Grupo1_EPM_S.git"
+    "url": "git+https://github.com/EPM-DH/grupo_1_EPM.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EPM-DH/Grupo1_EPM_S/issues"
+    "url": "https://github.com/EPM-DH/grupo_1_EPM/issues"
   },
-  "homepage": "https://github.com/EPM-DH/Grupo1_EPM_S#readme",
+  "homepage": "https://github.com/EPM-DH/grupo_1_EPM#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
     "express": "^4.17.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
   }
 }
