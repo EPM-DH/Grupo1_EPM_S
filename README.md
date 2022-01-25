@@ -12,7 +12,7 @@ Sprint 1
 1. Crear el repositorio del proyecto y agregar colaboradores.
 El nombre del repositorio será grupo_#_nombre donde # será su número de grupo y nombre será el nombre del proyecto.
 Deberán agregar como colaboradores al resto de los integrantes del grupo. 
-Entregable : https://github.com/EPM-DH/grupo_1_EPM.git
+Entregable : https://github.com/EPM-DH/grupo_1_EPM_S.git
 
 2. Definir la temática del Market Place
 ¿Qué productos o servicios brindará nuestro sitio? ¿Quién será nuestra audiencia
